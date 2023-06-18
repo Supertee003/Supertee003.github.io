@@ -1,3 +1,6 @@
 # Supertee003.github.io
 
-Hello world NECS1305 !! 
+Hello world NECS1305 !!
+ ชื่อ ธีรวัฒน์ ดอนเส
+ งานอดิเรก ปั่นจักรยาน
+ ทักษณะสกิล อดทนกับงานครับ
